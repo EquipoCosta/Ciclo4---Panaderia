@@ -1,2 +1,2 @@
 # Ciclo4---Panaderia
-Proyecto sitio web panadería 
+Proyecto de sitio web para un portal de ventas virtual de una panadería 
